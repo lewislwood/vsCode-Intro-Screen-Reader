@@ -1,0 +1,27 @@
+//  && editorLangId == html
+
+//   This is my signature, should appear at the top of files.
+//  Just type in description and select it. Then press key combination
+    {
+        "key": "ctrl+alt+win+S",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus",
+        "args": {
+            "langId": "",
+            "name": "MY SIGNATURE"
+          }
+        }        
+    ,
+
+
+    // Example of inline snippet.  Exists only in key binding. No array of lines either, thus simple.
+    {
+        "key": "ctrl+alt+win+P",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus",
+        "args": {
+"snippet": "${BLOCK_COMMENT_START} Today I am coding in ${1|React, NextJs, NodeJs, JavaScript, HTML, Python|}.  So let's have fun!!! ${BLOCK_COMMENT_END}"            
+          }
+        }        
+    
+]

@@ -1,0 +1,39 @@
+//Steps for transforming to a snippet
+
+Step 1)  Cpy generated emmet code here in a text file and replace all ' (quotes with apostrophes)
+   Then replace values with prompt variables $[1:someName}, etc
+"<div class='${1:divClasses}'>",
+"    <label for='${2:InputId}Id' class='lblClass'>Enter ${2}: </label> <input type='text' id='${2}Id'>",
+"</div>"
+
+2) Duplicate the lines you want repeated and change variable numbers for new prompts
+
+"<div class='${1:divClasses}'>",
+"    <label for='${2:InputId}Id' class='lblClass'>Enter ${2}: </label> <input type='text' id='${2}Id'>",
+"    <label for='${3:InputId2}Id' class='lblClass'>Enter ${3}: </label> <input type='text' id='${3}Id'>",
+"    <label for='${4:InputId3}Id' class='lblClass'>Enter ${4}: </label> <input type='text' id='${4}Id'>",
+"</div>"
+
+
+3) Now put  quotes (')  at start and end of each line followed by comma, except last line.
+
+
+
+
+
+4) Now copy the above into the snippet body you created. (Remeber multiline snippets must be in anan array  ())indicated by []'s ).
+
+*** Note you find a snippet file. All you have to do is copy it into your .vscode folder if you want to work backwards.  Otherwise use it as a reference.
+
+Happy coding ...
+
+
+
+ File Name: snippets-steps.txt  
+  Version: 1.0
+  Created: October 2022
+  Author: Lewis L. Wood
+   eMail: lewislwood@gmail.com
+  website: http: blindheroes.org
+  Description: A snippet test file to edit and format your snippet.
+ 
