@@ -1,0 +1,6 @@
+Part 8Emmet  List items
+12:05
+
+Use Emmet to generate List with 3 items containing links each.
+
+https://youtu.be/2ENYC0MH3hM

@@ -1,0 +1,10 @@
+Part 10b Snippet File creation test
+22:47
+
+Create a snippet file in the workspace. Then create the initial snippet in the file for testing everything.
+Once tested, copy the single input line snippet we created in the previous video.
+Then we add outer quotes and commas, and verify test.
+Next video we will make it a multi-line snippet.
+
+
+https://youtu.be/tC07LqH1DhA

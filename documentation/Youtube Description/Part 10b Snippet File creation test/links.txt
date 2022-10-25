@@ -1,0 +1,20 @@
+https://code.visualstudio.com/docs/editor/emmet
+Accessibility in vsCode
+https://code.visualstudio.com/docs/editor/accessibility
+
+Table Element markup
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
+
+
+the Definitive VS Code Snippet Guide for Beginners
+https://www.freecodecamp.org/news/definitive-guide-to-snippets-visual-studio-code/
+
+
+Emmet in Visual Studio
+https://code.visualstudio.com/docs/editor/emmet
+
+Emmet Cheat Sheet
+https://docs.emmet.io/cheat-sheet/
+
+
+

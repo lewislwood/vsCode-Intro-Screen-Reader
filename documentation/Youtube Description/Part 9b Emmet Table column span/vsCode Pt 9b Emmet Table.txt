@@ -1,0 +1,7 @@
+Part 9b Emmet Table
+11:45
+
+Use Emmet to create group type headers above the other hears. Totally accessible multi-layered tables with headings
+
+
+https://youtu.be/srE0_Ir3LQw

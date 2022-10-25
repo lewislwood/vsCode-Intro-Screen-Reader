@@ -1,0 +1,18 @@
+How to use the find and replace and what to watch for as a blind coder (behavior). Practices I use when selecting text and pasting code as a blind coder.
+
+
+We as blind coders proccess coding one line at a time and fail to see those helpful hints decorating the screens that our sighted counterparts see.
+This is part of a series of videos on using vsCode with a screen Reader, such a Jaws and NVDA.  This serious will outline on the tips and tricks I as a blind code have figured out for myself. This will supplement other resources, that are for all coders (blind or sighted). 
+ 
+Read more on the Blind Heroes Article
+https://blindheroes.org/general/vscode-intro/
+
+GitHub Repository
+https://github.com/lewislwood/vsCode-Intro-YouTube
+
+A good resource to read:
+Accessibility in vsCode
+https://code.visualstudio.com/docs/editor/accessibility
+
+vsCode Intro w/Screen Reader Playlist
+https://youtube.com/playlist?list=PL8M4jaHx-cNhsqVpBztPNqgf2OHQZ57AJ

@@ -1,0 +1,7 @@
+Part 10c Snippet  multi input block reusability demoed
+08:49
+
+I perform the final steps to convert the single line input into a multi line input snippet. I then demo it buy creating 2 snippet blocks with different prompts and colors and borders each.
+Next video I will demonstrate how to create snippets in 2 ways and assign keys.
+
+https://youtu.be/LicKmWDxPYY

@@ -1,0 +1,7 @@
+Part 5 find replace text selection
+15:41
+
+How to use the find and replace and what to watch for as a blind coder (behavior). Practices I use when selecting text and pasting code as a blind coder.
+
+
+https://youtu.be/4FYUPZEEGiw

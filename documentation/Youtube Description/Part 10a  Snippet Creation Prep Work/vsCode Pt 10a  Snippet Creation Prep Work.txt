@@ -1,0 +1,7 @@
+Part 10a  Snippet Creation Prep Work
+16:54
+
+Use Emmet to do the creation beginings. Prep work prior to putting snippet file.
+We change quotes to apostrophes. Add snippet  variables in appropiate places with initial values for prompts.
+
+https://youtu.be/i2R2xn66w1U

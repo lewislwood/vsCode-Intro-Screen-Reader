@@ -1,0 +1,6 @@
+Part 2settings, cmd palate, file explorer
+11:41
+
+Review how to change/modify settings from search and the JSON file.  Discuss the command palate how it works and searching it.
+
+https://youtu.be/kU0fv01SNzg

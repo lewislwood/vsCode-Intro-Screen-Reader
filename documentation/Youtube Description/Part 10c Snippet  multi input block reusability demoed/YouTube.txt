@@ -1,0 +1,25 @@
+I perform the final steps to convert the single line input into a multi line input snippet. I then demo it buy creating 2 snippet blocks with different prompts and colors and borders each.
+Next video I will demonstrate how to create snippets in 2 ways and assign keys.
+
+We as blind coders proccess coding one line at a time and fail to see those helpful hints decorating the screens that our sighted counterparts see.
+This is part of a series of videos on using vsCode with a screen Reader, such a Jaws and NVDA.  This serious will outline on the tips and tricks I as a blind code have figured out for myself. This will supplement other resources, that are for all coders (blind or sighted). 
+ 
+Read more on the Blind Heroes Article
+https://blindheroes.org/general/vscode-intro/
+
+GitHub Repository
+https://github.com/lewislwood/vsCode-Intro-YouTube
+
+A good resource to read:
+the Definitive VS Code Snippet Guide for Beginners
+https://www.freecodecamp.org/news/definitive-guide-to-snippets-visual-studio-code/
+
+Emmet Cheat Sheet
+https://docs.emmet.io/cheat-sheet/
+
+Accessibility in vsCode
+https://code.visualstudio.com/docs/editor/accessibility
+
+vsCode Intro w/Screen Reader Playlist
+https://youtube.com/playlist?list=PL8M4jaHx-cNhsqVpBztPNqgf2OHQZ57AJ
+
