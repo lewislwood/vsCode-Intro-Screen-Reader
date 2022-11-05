@@ -25,7 +25,7 @@ Here are the individual videos You can click on them to go directly to them.
 
 *13:51 minutes*
 
-A Brief Introduction to vsCode. My screen reader cusomizations. How to explore debug console/terminal terminal tree. Some keys discussed.
+A Brief Introduction to vsCode. My screen reader customizations. How to explore debug console/terminal terminal tree. Some keys discussed.
 
 [vsCode Part 2settings, cmd palate, file explorer](https://youtu.be/kU0fv01SNzg)
 ----------
