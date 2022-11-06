@@ -1,9 +1,9 @@
-Use Emmet to create HTML 5.0 compliant Doc.
+How to use Emmet to create an HTML 5.0 compliant Document.
 Create a div label input from Emmet.
-Discuss the great advantages to the blind utilizing Emmet vs typing it all in manually.
+Discuss the great advantages to using Emmet vs typing it all in manually.
 
-We as blind coders proccess coding one line at a time and fail to see those helpful hints decorating the screens that our sighted counterparts see.
-This is part of a series of videos on using vsCode with a screen Reader, such a Jaws and NVDA.  This serious will outline on the tips and tricks I as a blind code have figured out for myself. This will supplement other resources, that are for all coders (blind or sighted). 
+We as blind coders process coding one line at a time and fail to see those helpful hints decorating the screens that our sighted counterparts see.
+This is part of a series of videos on using vsCode with a screen Reader, such a Jaws and NVDA.  This series will outline  the tips and tricks I as a blind code have figured out for myself. This will supplement other resources, that are for all coders (blind or sighted). 
  
 Read more on the Blind Heroes Article
 https://blindheroes.org/general/vscode-intro/

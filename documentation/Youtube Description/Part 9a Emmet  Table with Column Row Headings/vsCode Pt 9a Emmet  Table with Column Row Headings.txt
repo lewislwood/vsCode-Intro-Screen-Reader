@@ -1,6 +1,6 @@
 Part 9a Emmet  Table with Column Row Headings
 17:08
 
-Use Emmet to create multi column tables with accessibility in mind. Also Row headers are created.
+Using Emmet to create multi column tables with accessibility in mind, complete with row headers.
 
 https://youtu.be/tYLKmtQboLU
