@@ -4,7 +4,7 @@ This repository contains files used on the Intro To YouTube video playlist. See 
 
 Checkout the Article called VSCode Intro Repository for YouTube Video at [Blind Heroes website](https://blindheroes.org/general/vscode-intro/)
 
-In this YouTube playlist, I describe how to interact with the VisualStudio Code editor using a screen reader. 
+In this YouTube playlist, I describe how to interact with the VisualStudio Code editor using a screen reader.
 
 ## Why This Project
 
@@ -30,7 +30,7 @@ While watching the videos, turn off Browse mode to use YouTube's shortcut keys.
 
 ## Short List Of YouTube Keystrokes
 
-To | Press 
+To | Press
 --- | ---
 Rewind 10 seconds | j
 Fast forward 10 seconds | l
@@ -134,7 +134,7 @@ Using Emmet to create group type headers above the other headers, totally access
 - [the Definitive VS Code Snippet Guide for Beginners](https://www.freecodecamp.org/news/definitive-guide-to-snippets-visual-studio-code/)
 
 ## Repository and Other Pages
- 
+
 -[GitHub Repository for files in the video](https://github.com/lewislwood/VSCode-Intro-YouTube)
 
 - [Blind Heroes YouTube Channel](https://www.youtube.com/channel/UCqFcEz-nT3NqHnq0H27oSdw)
