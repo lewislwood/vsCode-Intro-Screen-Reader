@@ -1,8 +1,8 @@
 vsCode Pt 3 Outline and brace Navigation
 
-How to navigate large amounts of code use Outline navigation and matching braces navigation.  This can be parenthesis, brackets as well. Using the keys ctrl + shift + o and ctrl + shift + backslash.
-We as blind coders proccess coding one line at a time and fail to see those helpful hints decorating the screens that our sighted counterparts see.
-This is part of a series of videos on using vsCode with a screen Reader, such a Jaws and NVDA.  This serious will outline on the tips and tricks I as a blind code have figured out for myself. This will supplement other resources, that are for all coders (blind or sighted). 
+How to navigate large amounts of code using Outline view and matching braces navigation, including parentheses, brackets, braces, and angle brackets. Using the keys ctrl + shift + o and ctrl + shift + backslash.
+We as blind coders process coding one line at a time and fail to see those helpful hints decorating the screens that our sighted counterparts see.
+This is part of a series of videos on using vsCode with a screen Reader, such as Jaws and NVDA.  This series will outline  the tips and tricks I as a blind coder have figured out for myself. This will supplement other resources for all coders (blind or sighted). 
  
 Read more on the Blind Heroes Article
 https://blindheroes.org/general/vscode-intro/
@@ -17,5 +17,3 @@ https://code.visualstudio.com/docs/editor/accessibility
 vsCode Intro w/Screen Reader Playlist
 https://youtube.com/playlist?list=PL8M4jaHx-cNhsqVpBztPNqgf2OHQZ57AJ
 
-Blind Heroes Article
-https://blindheroes.org/general/vscode-intro/

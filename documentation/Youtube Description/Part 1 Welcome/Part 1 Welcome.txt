@@ -1,5 +1,5 @@
 vsCode Pt 1 Welcome
 13:51
-Introduce vsCode interface briefly.  Discuss some of my screen reader cusomizations. How to explore debug console/terminal terminal tree. Some keys discussed.
+Introduce vsCode interface briefly.  Discuss some of my screen reader customizations. How to explore debug console/terminal terminal tree. Discuss Some keys.
 
 https://youtu.be/6ZteovqUYfw
