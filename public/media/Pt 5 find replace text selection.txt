@@ -1,0 +1,11 @@
+# Media Info file.  This file describes the media with the same name. 
+# You must copy this template file into media folder and name it the same name as the media file with the .txt extension.
+# Media friendly name
+[name]=find replace text selection
+[order]=15
+[category]=General
+[length]=15:41
+# *****  Ends the tag info section ***
+How to use the find and replace and what to watch for as a blind coder (behavior). Practices I use when selecting text and pasting code as a blind coder.
+
+

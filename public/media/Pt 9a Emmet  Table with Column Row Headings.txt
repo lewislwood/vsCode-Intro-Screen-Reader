@@ -1,0 +1,9 @@
+# Media Info file.  This file describes the media with the same name. 
+# You must copy this template file into media folder and name it the same name as the media file with the .txt extension.
+# Media friendly name
+[name]=Emmet  Table with Column Row Headings
+[order]=35
+[category]=General, Table
+[length]=17:08
+# *****  Ends the tag info section ***
+Use Emmet to create multi column tables with accessibility in mind. Also Row headers are created.

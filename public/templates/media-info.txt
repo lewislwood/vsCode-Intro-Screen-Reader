@@ -1,0 +1,11 @@
+# Media Info file.  This file describes the media with the same name. 
+# You must copy this template file into media folder and name it the same name as the media file with the .txt extension.
+# Media friendly name
+[name]=User friendly name
+[order]=0
+[category]=General, Rock
+[length]=2:31
+# *****  Ends the tag info section ***
+# This is the media description. Each new line will become a paragraph.
+Here I tell it as it is. Singing my hear out.
+Please give to my foundation you crazy people!!!

@@ -1,0 +1,10 @@
+# Media Info file.  This file describes the media with the same name. 
+# You must copy this template file into media folder and name it the same name as the media file with the .txt extension.
+# Media friendly name
+[name]=Outline and brace Navigation
+[order]=13
+[category]=General
+[length]=8:54
+# *****  Ends the tag info section ***
+How to navigate large amounts of code use Outline navigation and matching braces navigation.  This can be parenthesis, brackets as well. Using the keys ctrl + shift + o and ctrl + shift + backslash.
+

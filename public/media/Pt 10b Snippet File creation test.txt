@@ -1,0 +1,12 @@
+# Media Info file.  This file describes the media with the same name. 
+# You must copy this template file into media folder and name it the same name as the media file with the .txt extension.
+# Media friendly name
+[name]=Snippet File creation test
+[order]=42
+[category]=General, Snippets
+[length]=22:47
+# *****  Ends the tag info section ***
+Create a snippet file in the workspace. Then create the initial snippet in the file for testing everything.
+Once tested, copy the single input line snippet we created in the previous video.
+Then we add outer quotes and commas, and verify test.
+Next audio we will make it a multi-line snippet.

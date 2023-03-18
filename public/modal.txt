@@ -1,0 +1,19 @@
+<div class="modal fade" id="helpScreen" tabindex="-1" aria-labelledby="exampleModalLabel" aria-modal="true" role="dialog">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+          <button id="closeHelpScreen" type="button" class="close" aria-label="Close"  >
+            <span aria-hidden="true">×</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <p>Put the shortcut  keys here.</p>
+        </div>
+        <div class="modal-footer">
+          <button id="exitHelpScreen" type="button" class="btn btn-primary">Close Help Screen</button>
+        </div>
+      </div>
+    </div>
+  </div>
+<div class="modal-backdrop fade show" id="backDrop"  style="display: none;"></div>

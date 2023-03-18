@@ -1,0 +1,10 @@
+# Media Info file.  This file describes the media with the same name. 
+# You must copy this template file into media folder and name it the same name as the media file with the .txt extension.
+# Media friendly name
+[name]=Snippet  multi input block reusability demoed
+[order]=43
+[category]=General, Snippets
+[length]=8:49
+# *****  Ends the tag info section ***
+I perform the final steps to convert the single line input into a multi line input snippet. I then demo it buy creating 2 snippet blocks with different prompts and colors and borders each.
+Next video I will demonstrate how to create snippets in 2 ways and assign keys.
