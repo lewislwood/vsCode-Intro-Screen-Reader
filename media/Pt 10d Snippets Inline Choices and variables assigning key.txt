@@ -1,0 +1,11 @@
+# Media Info file.  This file describes the media with the same name. 
+# You must copy this template file into media folder and name it the same name as the media file with the .txt extension.
+# Media friendly name
+[name]=Snippets Inline Choices and variables assigning key
+[order]=44
+[category]=General, snippets
+[length]=17:56
+# *****  Ends the tag info section ***
+Demo and show how I created a signature snippet with a stopping end point to fill in description.
+ Show a fun snippet assigned to a key where you choose from a choice list of languages. 
+I also assign signature snippet  to key that automatically imports any selected text when invoked by the hotkey. You can add more if desired from there.

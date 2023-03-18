@@ -1,0 +1,9 @@
+# Media Info file.  This file describes the media with the same name. 
+# You must copy this template file into media folder and name it the same name as the media file with the .txt extension.
+# Media friendly name
+[name]=Part 1 Welcome
+[order]=11
+[category]=General 
+[length]=13:51
+# *****  Ends the tag info section ***
+Introduce vsCode interface briefly.  Discuss some of my screen reader customizations. How to explore debug console/terminal terminal tree. Some keys discussed.

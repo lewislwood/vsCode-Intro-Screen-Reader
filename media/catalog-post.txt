@@ -1,0 +1,6 @@
+#This is the paragraph(s) at the end of the html file#  Simply type in some text or html. 
+<h5>Resources</h5>
+Here are some resources for you to consider:
+<a href="https://www.youtube.com/playlist?list=PL8M4jaHx-cNhsqVpBztPNqgf2OHQZ57AJ">YouTube Vs Code Intro Playlist</a>
+<br>
+<a href="https://www.microsoft.com/en-us/trust-center/compliance/accessibility">Microsoft Accessibility Trust Center</a>

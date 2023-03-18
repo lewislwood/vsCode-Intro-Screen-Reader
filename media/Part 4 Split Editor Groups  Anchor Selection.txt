@@ -1,0 +1,13 @@
+# Media Info file.  This file describes the media with the same name. 
+# You must copy this template file into media folder and name it the same name as the media file with the .txt extension.
+# Media friendly name
+[name]=Split Editor Groups  Anchor Selection
+[order]=14
+[category]=General
+[length]=17:29
+# *****  Ends the tag info section ***
+Explain how to perform split editing. This is where a file is editing in 2 windows/groups. Explain editor groups and perform a snippet, then block copy a folded code from one group to the newly created snippet code.
+Lastly I demonstrate anchor selection, where you drop an anchor selection. Move somewhere else in the code and select to the cursor from the anchor point.
+ctrl + backslash to split. ctrl + k ctrl + l to fold as well.
+ctrl+k ctrl+b drop anchor, ctrl+k+ctrl+k to select from anchor to cursor.
+

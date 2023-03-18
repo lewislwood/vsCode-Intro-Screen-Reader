@@ -1,0 +1,10 @@
+# Media Info file.  This file describes the media with the same name. 
+# You must copy this template file into media folder and name it the same name as the media file with the .txt extension.
+# Media friendly name
+[name]=Emmet Table ColSpan Headings
+[order]=36
+[category]=General, Table
+[length]=11:45
+# *****  Ends the tag info section ***
+Use Emmet to create group type headers above the other hears. Totally accessible multi-layered tables with headings
+

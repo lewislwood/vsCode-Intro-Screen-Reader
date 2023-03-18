@@ -1,0 +1,10 @@
+# Media Info file.  This file describes the media with the same name. 
+# You must copy this template file into media folder and name it the same name as the media file with the .txt extension.
+# Media friendly name
+[name]=settings, cmd palette, file explorer
+[order]=12
+[category]=General
+[length]=11:41
+# *****  Ends the tag info section ***
+Review how to change/modify settings from search and the JSON file.  Discuss the command palate how it works and searching it.
+
