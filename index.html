@@ -40,7 +40,7 @@
 </header>
 <div class="player-status">           
     <h4 id="id_player_status_current">Current Status</h4>
-    <p>Disable screen reader keys for optimal key combatibility.   Press shift + "?" (question mark key) to view shortcut keys help scren. On the shortcut key help screen, be sure to reenable your screen reader keys.     </p>
+    <p>Disable screen reader keys for optimal key combatibility.   Press shift + "?" (question mark key) to view shortcut keys help screen. On the shortcut key help screen, be sure to reenable your screen reader keys.     </p>
         <div id="id_player_status" aria-live="assertive"></div> 
         <div id="id_player_info" aria-live="assertive"></div> 
     </div>
@@ -616,12 +616,17 @@
        <br>
        <table>
 <thead>
+    <caption>Table for Shortcut keys</caption>
  <tr>
      <th>Shortcut Key</th>
      <th>Action Performed</th>
  </tr>
 </thead>
 <tbody>
+    <tr>
+        <td>shift + ?</td>
+        <td>Displays this help screen.</td>
+    </tr>
  <tr>
      <td>k</td>
      <td>Play/Pause current track.</td>
@@ -678,6 +683,7 @@
 
        <button id="closeHelpScreen" >exit</button>
        <p>Press escape key to exit or the above button.</p>
+       <p>*** Note: I tried to stay close to YouTube shortcut keys. People and especially visually impaired have enough keys to remember</p>
 
  </div>
 
