@@ -136,5 +136,6 @@ Using Emmet to create group type headers above the other headers, totally access
 ## Repository and Other Pages
 
 -[GitHub Repository for files in the video](https://github.com/lewislwood/VSCode-Intro-YouTube)
+by Lewis
 
 - [Blind Heroes YouTube Channel](https://www.youtube.com/channel/UCqFcEz-nT3NqHnq0H27oSdw)
