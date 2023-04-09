@@ -6,5 +6,5 @@
 [category]=General, Snippet
 [length]=16:54
 # *****  Ends the tag info section ***
-Use Emmet to do the creation beginings. Prep work prior to putting snippet file.
-We change quotes to apostrophes. Add snippet  variables in appropiate places with initial values for prompts.
+Use Emmet to do the creation beginnings. Prep work prior to putting snippet file.
+We change quotes to apostrophes. Add snippet  variables in appropriate places with initial values for prompts.

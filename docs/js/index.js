@@ -42,6 +42,7 @@ class CardTrack {
             cp.control3 = card.querySelector("[name='control3']");
             cp.control4 = card.querySelector("[name='control4']");
             cp.control5 = card.querySelector("[name='control5']");
+            this.setShare();
         }
         catch (e) {
             vConsole.log("track.constructor  error: " + e.message);
@@ -49,6 +50,48 @@ class CardTrack {
         ; // catch
     }
     ; // constructor
+    setShare() {
+        try {
+            let id;
+            if (this.track) {
+                const share = this.track.querySelector(".share-button");
+                if (share) {
+                    const h2 = this.track.querySelector("h2");
+                    if (h2) {
+                        id = h2.id;
+                        if (id) {
+                        }
+                    }
+                    ; // if h2
+                    if (id) {
+                        const sa = () => { this.shareAction(id); };
+                        share.onclick = () => { sa(); };
+                    }
+                    else {
+                        share.remove();
+                    }
+                    ; // if id
+                }
+                ; // if share
+            }
+            ; // if track
+        }
+        catch (e) {
+            vConsole.log("cardTrack.setShare error: " + e.message);
+        } // catch      
+    }
+    ; // setShare()
+    shareAction(anchor) {
+        try {
+            const url = window.location.href.split("#")[0] + "#" + anchor;
+            window.navigator.clipboard.writeText(url);
+            alert("Link shared to clipboard");
+        }
+        catch (e) {
+        }
+        ; //catch
+    }
+    ; // shareAction(anchor)
     timeUpdate() {
         if (this.isPlaying()) {
             if (this.timer > -1)
@@ -316,6 +359,8 @@ class CardPlayer {
     }
     ; // constructor
     static initialize() {
+        const url = window.location.href;
+        vConsole.log("Current url is: " + url);
         const iv = document.getElementById("initialVolume");
         if (iv)
             CardPlayer.currentVolume = parseFloat(iv.innerText);
@@ -341,8 +386,16 @@ class CardPlayer {
                 hClose.onclick = () => { CardPlayer.hideHelpScreen(); };
         }
         const hb = document.getElementById("helpButton");
+        const helpDelay = () => {
+            const hl = document.getElementById("id_player_info");
+            if (hl)
+                hl.innerText = "Displaying help screen. Screen readers wil want to use navigation keys.";
+            setTimeout(() => {
+                CardPlayer.displayHelpScreen();
+            }, 200);
+        };
         if (hb)
-            hb.onclick = () => { CardPlayer.displayHelpScreen(); };
+            hb.onclick = () => { helpDelay(); };
     }
     ; //Initialize
     static keyHandler(ev) {
@@ -353,9 +406,7 @@ class CardPlayer {
                     if (hl)
                         hl.innerText = "Closing Help Screen. You may want to turn off screen navigation keys for optimal experience.";
                     setTimeout(() => { CardPlayer.hideHelpScreen(); }, 200);
-                }
-                else
-                    vConsole.log("The key pressed was: " + ev.key);
+                } // else vConsole.log("The key pressed was: " + ev.key);
             }
             else {
                 if (!(ev.altKey || ev.ctrlKey)) {

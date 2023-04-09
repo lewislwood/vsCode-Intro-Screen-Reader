@@ -1,18 +1,30 @@
-.help-tag {
-    background: #000080;
-    color: cyan;
-    margin-left: 30px;
-    margin-right: 30px;
-    margin-top: 1px;
-    margin-bottom: 0px;
+
+
+.ac-logo-container {
+    filter: invert(1.0)   ;
 }
 
+.ac-logo {
+    height: 100px;
+    width: 75px;
+}
+
+
+.share-button {
+filter:invert(1.0);
+float: left ;
+}
+
+
+
+.ta-justify {
+    text-align: left;
+}
 .logo-container {
     filter: invert(1.0);
 
 }
 .logo {
-    fill: none;
     height: 100px;
     padding-left: 25%;;
     padding-bottom: 5px;;
@@ -21,8 +33,6 @@
     display: block;
     width: 100%;
     height: 7em;
-    background: #000080;
-    color: yellow;
     margin-bottom: 10px; 
     padding-top: 3px;
     padding-left: 3px;
@@ -43,7 +53,6 @@ PADDING-BOTTOM: 5PX;
 }
 
 .helpButtonImage{
-FILL: NONE;
 width:30px;
 height: 30px;
 }
@@ -60,7 +69,6 @@ width: 40%;
 }
     .card-controls {
         DISPLAY: BLOCK;
-        COLOR: WHITE;
 height: 100%;
 width: 120px;
 padding-top: 0px;
@@ -69,7 +77,6 @@ padding-bottom: 2px;
 
     .card-panel {
         display: FLEX;
-COLOR: WHITE;
         flex-direction: row;;
         justify-content: space-around;
     }
@@ -86,15 +93,11 @@ COLOR: WHITE;
         display: none;
     }
     .card-button {
-        background: none;
-        color: white;
         padding: 0;
         margin: 0;
     }
     .card-nav-bar {
         display: flex;
-        background: #000080;
-        color:yellow;
         justify-content: space-between;
             }
         
@@ -106,22 +109,17 @@ COLOR: WHITE;
             filter: invert(1.0);
 
             }
-            svg {
-                fill: currentColor;
-            }
+
         
             .card-nb-img {
                 width:16px;
         height: 16px;
-            /* fill: #000080; */
 
             }
             
 
     .card-img{
         filter: invert(1.0);
-        fill: white;
-     color: white;
      margin: 0;
     }
 
@@ -158,7 +156,6 @@ display:none;
     top: 0;
     left: 0;
     width: 100%;
-    background-color: black;
 } 
 
     .dlg {
@@ -167,8 +164,6 @@ display:none;
         
         width: 500px;
         height: 800px;
-background-color: white;
-color: black;;
     }
 
 

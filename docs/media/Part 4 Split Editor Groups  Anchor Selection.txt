@@ -2,7 +2,7 @@
 # You must copy this template file into media folder and name it the same name as the media file with the .txt extension.
 # Media friendly name
 [name]=Split Editor Groups  Anchor Selection
-[order]=14
+[order]=15
 [category]=General
 [length]=17:29
 # *****  Ends the tag info section ***

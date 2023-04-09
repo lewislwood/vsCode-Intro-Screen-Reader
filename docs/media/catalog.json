@@ -1,12 +1,12 @@
 {
   "application": {
     "name": "Audio-Catalog",
-    "created": "2023-03-18T17:24:30.601Z",
+    "created": "2023-03-26T22:13:49.605Z",
     "developer": "Lewis Wood",
     "website": "http://blindheroes.org"
   },
   "allow_category_filter": true,
-  "overview": "<p># Menu Link to point to</p><p>[menu_link]=http://Helpme.org</p><p>[menu_text]=Give me blood</p><p>This catalog of audio webinars introduce Vs Code to visually impaired. Techniques for navigating and modifying code.  Also how to change sttings.</p><p>Microsfot Accessiblity provide some wonderful webinars/videos as well. This is a supplement. I express techniques that have helped me along using a screen reader.  It is so hard, since sighted take for granted that the knowledge to perform that task is quite obvious (Just look!).</p><p>I hope to address these issues and present a large catalog of videos in a quick manner.</p>",
+  "overview": "<p 'ta-justify'># Menu Link to point to</p><p>[menu_link]=http://Helpme.org</p><p>[menu_text]=Give me blood</p><p>This catalog of audio webinars introduce Vs Code to visually impaired. Techniques for navigating and modifying code.  Also how to change sttings.</p><p>Microsfot Accessiblity provide some wonderful webinars/videos as well. This is a supplement. I express techniques that have helped me along using a screen reader.  It is so hard, since sighted take for granted that the knowledge to perform that task is quite obvious (Just look!).</p><p>I hope to address these issues and present a large catalog of videos in a quick manner.</p>",
   "help": "Select the Play button or Download to download the media.",
   "logo": "logo.svg",
   "logoAlt": "logo for Audio Acatalog",
@@ -21,7 +21,8 @@
       "Modified": "2023-03-08T16:39:50.985Z",
       "order": 11,
       "category": "General",
-      "description": "<p>Introduce vsCode interface briefly.  Discuss some of my screen reader customizations. How to explore debug console/terminal terminal tree. Some keys discussed.</p>"
+      "description": "<p 'ta-justify'>Introduce vsCode interface briefly.  Discuss some of my screen reader customizations. How to explore debug console/terminal  and terminal tree. Some keys discussed.</p>",
+      "anchor": "part-1-welcome"
     },
     {
       "file": "Part 2 settings, cmd palette, file explorer.mp3",
@@ -32,7 +33,8 @@
       "Modified": "2023-03-08T16:43:29.942Z",
       "order": 12,
       "category": "General",
-      "description": "<p>Review how to change/modify settings from search and the JSON file.  Discuss the command palate how it works and searching it.</p>"
+      "description": "<p 'ta-justify'>Review how to change/modify settings from search and the JSON file.  Discuss the command palate how it works and searching it.</p>",
+      "anchor": "settings,-cmd-palette,-file-ex"
     },
     {
       "file": "Part 3 Outline and brace Navigation.mp3",
@@ -43,7 +45,8 @@
       "Modified": "2023-03-08T16:45:09.311Z",
       "order": 13,
       "category": "General",
-      "description": "<p>How to navigate large amounts of code use Outline navigation and matching braces navigation.  This can be parenthesis, brackets as well. Using the keys ctrl + shift + o and ctrl + shift + backslash.</p>"
+      "description": "<p 'ta-justify'>How to navigate large amounts of code use Outline navigation and matching braces navigation.  This can be parenthesis, brackets as well. Using the keys ctrl + shift + o and ctrl + shift + backslash.</p>",
+      "anchor": "outline-and-brace-navigation"
     },
     {
       "file": "Part 4 Split Editor Groups  Anchor Selection.mp3",
@@ -54,7 +57,8 @@
       "Modified": "2023-03-08T16:46:28.216Z",
       "order": 14,
       "category": "General",
-      "description": "<p>Explain how to perform split editing. This is where a file is editing in 2 windows/groups. Explain editor groups and perform a snippet, then block copy a folded code from one group to the newly created snippet code.</p><p>Lastly I demonstrate anchor selection, where you drop an anchor selection. Move somewhere else in the code and select to the cursor from the anchor point.</p><p>ctrl + backslash to split. ctrl + k ctrl + l to fold as well.</p><p>ctrl+k ctrl+b drop anchor, ctrl+k+ctrl+k to select from anchor to cursor.</p>"
+      "description": "<p 'ta-justify'>Explain how to perform split editing. This is where a file is editing in 2 windows/groups. Explain editor groups and perform a snippet, then block copy a folded code from one group to the newly created snippet code.</p><p>Lastly I demonstrate anchor selection, where you drop an anchor selection. Move somewhere else in the code and select to the cursor from the anchor point.</p><p>ctrl + backslash to split. ctrl + k ctrl + l to fold as well.</p><p>ctrl+k ctrl+b drop anchor, ctrl+k+ctrl+k to select from anchor to cursor.</p>",
+      "anchor": "split-editor-groups--anchor-se"
     },
     {
       "file": "Pt 5 find replace text selection.mp3",
@@ -65,7 +69,8 @@
       "Modified": "2023-03-08T16:47:51.923Z",
       "order": 15,
       "category": "General",
-      "description": "<p>How to use the find and replace and what to watch for as a blind coder (behavior). Practices I use when selecting text and pasting code as a blind coder.</p>"
+      "description": "<p 'ta-justify'>How to use the find and replace and what to watch for as a blind coder (behavior). Practices I use when selecting text and pasting code as a blind coder.</p>",
+      "anchor": "find-replace-text-selection"
     },
     {
       "file": "Pt 6 New project emmet html doc label inputHtml Emmet label input.mp3",
@@ -76,7 +81,8 @@
       "Modified": "2023-03-08T16:49:30.468Z",
       "order": 16,
       "category": "General",
-      "description": "<p>Use Emmet to create HTML 5.0 compliant Doc.</p><p>Create a div label input from Emmet.</p><p>Discuss the great advantages to the blind utilizing Emmet vs typing it all in manually.</p>"
+      "description": "<p 'ta-justify'>Use Emmet to create HTML 5.0 compliant Doc.</p><p>Create a div label input from Emmet.</p><p>Discuss the great advantages to the blind utilizing Emmet vs typing it all in manually.</p>",
+      "anchor": "new-project-emmet-html-doc-lab"
     },
     {
       "file": "Pt 7Emmet  combobox.mp3",
@@ -87,7 +93,8 @@
       "Modified": "2023-03-08T16:50:59.160Z",
       "order": 17,
       "category": "General",
-      "description": "<p>Use Emmet to generate a Select with 3 options. ComboBox.</p>"
+      "description": "<p 'ta-justify'>Use Emmet to generate a Select with 3 options. ComboBox.</p>",
+      "anchor": "combobox"
     },
     {
       "file": "Pt 8Emmet  List items.mp3",
@@ -98,7 +105,8 @@
       "Modified": "2023-03-08T16:52:09.198Z",
       "order": 18,
       "category": "General",
-      "description": "<p>Use Emmet to generate List with 3 items containing links each.</p>"
+      "description": "<p 'ta-justify'>Use Emmet to generate List with 3 items containing links each.</p>",
+      "anchor": "list-items"
     },
     {
       "file": "Pt 9a Emmet  Table with Column Row Headings.mp3",
@@ -109,7 +117,8 @@
       "Modified": "2023-03-08T16:53:21.238Z",
       "order": 35,
       "category": "General, Table",
-      "description": "<p>Use Emmet to create multi column tables with accessibility in mind. Also Row headers are created.</p>"
+      "description": "<p 'ta-justify'>Use Emmet to create multi column tables with accessibility in mind. Also Row headers are created.</p>",
+      "anchor": "emmet--table-with-column-row-h"
     },
     {
       "file": "Pt 9b Emmet Table ColSpan Headings.mp3",
@@ -120,7 +129,8 @@
       "Modified": "2023-03-08T16:54:31.111Z",
       "order": 36,
       "category": "General, Table",
-      "description": "<p>Use Emmet to create group type headers above the other hears. Totally accessible multi-layered tables with headings</p>"
+      "description": "<p 'ta-justify'>Use Emmet to create group type headers above the other hears. Totally accessible multi-layered tables with headings</p>",
+      "anchor": "emmet-table-colspan-headings"
     },
     {
       "file": "Pt 10a  Snippet Creation Prep Work.mp3",
@@ -131,7 +141,8 @@
       "Modified": "2023-03-08T16:55:52.581Z",
       "order": 41,
       "category": "General, Snippet",
-      "description": "<p>Use Emmet to do the creation beginings. Prep work prior to putting snippet file.</p><p>We change quotes to apostrophes. Add snippet  variables in appropiate places with initial values for prompts.</p>"
+      "description": "<p 'ta-justify'>Use Emmet to do the creation beginnings. Prep work prior to putting snippet file.</p><p>We change quotes to apostrophes. Add snippet  variables in appropriate places with initial values for prompts.</p>",
+      "anchor": "snippet-creation-prep-work"
     },
     {
       "file": "Pt 10b Snippet File creation test.mp3",
@@ -142,7 +153,8 @@
       "Modified": "2023-03-08T16:57:51.803Z",
       "order": 42,
       "category": "General, Snippets",
-      "description": "<p>Create a snippet file in the workspace. Then create the initial snippet in the file for testing everything.</p><p>Once tested, copy the single input line snippet we created in the previous video.</p><p>Then we add outer quotes and commas, and verify test.</p><p>Next audio we will make it a multi-line snippet.</p>"
+      "description": "<p 'ta-justify'>Create a snippet file in the workspace. Then create the initial snippet in the file for testing everything.</p><p>Once tested, copy the single input line snippet we created in the previous video.</p><p>Then we add outer quotes and commas, and verify test.</p><p>Next audio we will make it a multi-line snippet.</p>",
+      "anchor": "snippet-file-creation-test"
     },
     {
       "file": "Pt 10c Snippet  multi input block reusability demoed.mp3",
@@ -153,7 +165,8 @@
       "Modified": "2023-03-08T16:58:47.100Z",
       "order": 43,
       "category": "General, Snippets",
-      "description": "<p>I perform the final steps to convert the single line input into a multi line input snippet. I then demo it buy creating 2 snippet blocks with different prompts and colors and borders each.</p><p>Next video I will demonstrate how to create snippets in 2 ways and assign keys.</p>"
+      "description": "<p 'ta-justify'>I perform the final steps to convert the single line input into a multi line input snippet. I then demo it buy creating 2 snippet blocks with different prompts and colors and borders each.</p><p>Next video I will demonstrate how to create snippets in 2 ways and assign keys.</p>",
+      "anchor": "snippet--multi-input-block-reu"
     },
     {
       "file": "Pt 10d Snippets Inline Choices and variables assigning key.mp3",
@@ -164,10 +177,11 @@
       "Modified": "2023-03-08T17:00:02.291Z",
       "order": 44,
       "category": "General, snippets",
-      "description": "<p>Demo and show how I created a signature snippet with a stopping end point to fill in description.</p><p>Show a fun snippet assigned to a key where you choose from a choice list of languages.</p><p>I also assign signature snippet  to key that automatically imports any selected text when invoked by the hotkey. You can add more if desired from there.</p>"
+      "description": "<p 'ta-justify'>Demo and show how I created a signature snippet with a stopping end point to fill in description.</p><p>Show a fun snippet assigned to a key where you choose from a choice list of languages.</p><p>I also assign signature snippet  to key that automatically imports any selected text when invoked by the hotkey. You can add more if desired from there.</p>",
+      "anchor": "snippets-inline-choices-and-va"
     }
   ],
   "doc_title": "Vs Code Introduction with Screen Reader",
   "cat_title": "VsCode Introduction",
-  "post_description": "<p><h5>Resources</h5></p><p>Here are some resources for you to consider:</p><p><a href=\"https://www.youtube.com/playlist?list=PL8M4jaHx-cNhsqVpBztPNqgf2OHQZ57AJ\">YouTube Vs Code Intro Playlist</a></p><p><br></p><p><a href=\"https://www.microsoft.com/en-us/trust-center/compliance/accessibility\">Microsoft Accessibility Trust Center</a></p>"
+  "post_description": "<p 'ta-justify'><h5>Resources</h5></p><p>Here are some resources for you to consider:</p><p><a href=\"https://www.youtube.com/playlist?list=PL8M4jaHx-cNhsqVpBztPNqgf2OHQZ57AJ\">YouTube Vs Code Intro Playlist</a></p><p><br></p><p><a href=\"https://www.microsoft.com/en-us/trust-center/compliance/accessibility\">Microsoft Accessibility Trust Center</a></p>"
 }

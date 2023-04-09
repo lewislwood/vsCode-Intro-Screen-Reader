@@ -2,7 +2,8 @@
 # You must copy this template file into media folder and name it the same name as the media file with the .txt extension.
 # Media friendly name
 [name]=Outline and brace Navigation
-[order]=13
+[order]=14
+
 [category]=General
 [length]=8:54
 # *****  Ends the tag info section ***

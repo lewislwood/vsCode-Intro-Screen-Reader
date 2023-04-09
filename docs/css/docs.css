@@ -1,0 +1,213 @@
+/*  CSS styles for Docs files  */
+
+.ac-logo-container, .code-button {
+    filter: invert(1.0)   ;
+}
+
+.ac-logo {
+    fill: white;
+    height: 100px;
+    width: 75px;
+}
+code {
+    font-family: monospace;
+    font-size: 105%;;
+}
+.code-img {
+    fill:none;
+}
+
+
+.share-button {
+filter:invert(1.0);
+float: left ;
+}
+
+.share-svg {
+    fill: none;
+}
+
+.ta-justify {
+    text-align: left;
+}
+#helpButton {
+    filter: invert(1.0);
+    float:right;
+padding: 0;
+PADDING-BOTTOM: 5PX;
+}
+    
+    .control-hide {
+        display: none;
+    }
+
+            svg {
+                fill: currentColor;
+            }
+.hide {
+    position: absolute;
+top: 6px;
+left: 10005px;
+width: 1px;
+display:none;
+}
+
+#dlgBack.show {
+    position:relative;
+    display: flex;
+    align-items: center;
+    vertical-align: middle;;
+    justify-content: center;
+    flex-direction: row;;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: black;
+} 
+
+    .dlg {
+        align-self: center;
+        justify-content: center;
+        
+        width: 500px;
+        height: 800px;
+background-color: white;
+color: black;;
+    }
+
+/* Navigation menu 
+       .nav .nav-item .nav-image 
+       */
+       .nav-item {
+        filter:invert(1.0);
+    }
+    .nav-image {
+        fill:none;
+        height: 15px;
+    }
+
+
+    .docs-body {
+        background-color: grey;
+        justify-content: center;;
+        display: flex;
+        }
+
+        .docs-content {
+            background-color: #000080;
+            color: yellow;
+            display: flex;
+            flex-direction: column;
+            }
+            
+            .docs-wide {
+            width: 100%;
+            display: block;
+            padding: 0;
+            margin: 0   ;
+            border-bottom: 5px solid white;
+            }
+            
+     /* tablet and lg */
+    @media only screen and (min-width: 1000px) and (max-width: 1278px) {
+        .docs-container {
+            width: 1380px;
+            display: block;
+            margin: 0;
+            padding: 0;
+            }
+
+        }  /* tablet to LG displayes */
+
+ /* lg to xg displayes */
+ @media screen and (min-width: 1400px){
+    .docs-flex {
+        display: flex;
+        width: 100%;
+        justify-items: center;
+        margin: 0;
+        padding: 5px;
+    }
+
+
+
+    .docs-container-lg {
+        width: 1200px;
+        display: block;
+        margin: 0;
+        padding: 0;
+        }
+        .docs-container {
+        
+width: 1380px;
+display: block;
+margin: 0;
+padding: 0;
+}
+
+.qs-instructions {
+    float : left;
+    display: inline;
+    width: 40%;
+    margin: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 3px;
+    padding-bottom: 5px;
+}
+.instructions {
+    float: right;
+    width: 55%;
+    padding-left: 8px;;
+    padding-right: 5px;;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 0px;;
+}
+.github {
+    display: block;
+    clear:both;
+    padding-top: 5px;;
+padding-left: 12%;
+padding-right: 8%;;
+margin: 0;;
+margin-bottom: 5px;
+    width : 80%;
+}
+
+.section {
+
+    margin:0 ;
+    padding: 2px;
+}
+.span1-2 {
+    grid-column:1/ span 2 ;
+}
+
+.docs-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    grid-gap: 10px;
+}
+.developer-overview {
+height: 18EM;
+}
+.developer-server {
+    margin-top: 10PX;
+    height: 43em;
+        }
+        
+        .developer-CLIENT{
+            margin-top: 10PX;
+            height: 28em;
+                }
+      
+
+}  /* media size 1280
+
+.GRID-COLUMN1 {                grid-column: 1;           }
+
+            .GRID-COLUMN2 {                                grid-column: 2;            }
+
+            .GRID-COLUMN3 {                grid-column: 3;            }

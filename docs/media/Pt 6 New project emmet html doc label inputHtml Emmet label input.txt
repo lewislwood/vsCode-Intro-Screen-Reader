@@ -2,7 +2,8 @@
 # You must copy this template file into media folder and name it the same name as the media file with the .txt extension.
 # Media friendly name
 [name]=New project emmet html doc label inputHtml Emmet label input
-[order]=16
+[order]=17
+
 [category]=General
 [length]=21:43
 # *****  Ends the tag info section ***

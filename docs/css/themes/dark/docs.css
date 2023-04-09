@@ -1,0 +1,80 @@
+/*  CSS styles for Docs files  */
+
+.ac-logo-container, .code-button {
+    filter: invert(1.0)   ;
+}
+
+.ac-logo {
+    fill: white;
+    height: 100px;
+    width: 75px;
+}
+code {
+    font-family: monospace;
+    font-size: 105%;;
+}
+.code-img {
+    fill:none;
+}
+
+
+.share-button {
+filter:invert(1.0);
+float: left ;
+}
+
+.share-svg {
+    fill: none;
+}
+
+.ta-justify {
+    text-align: left;
+}
+#helpButton {
+    filter: invert(1.0);
+    float:right;
+padding: 0;
+PADDING-BOTTOM: 5PX;
+}
+    
+    .control-hide {
+        display: none;
+    }
+
+            svg {
+                fill: currentColor;
+            }
+.hide {
+    position: absolute;
+top: 6px;
+left: 10005px;
+width: 1px;
+display:none;
+}
+
+#dlgBack.show {
+    position:relative;
+    display: flex;
+    align-items: center;
+    vertical-align: middle;;
+    justify-content: center;
+    flex-direction: row;;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: black;
+} 
+
+    .dlg {
+        align-self: center;
+        justify-content: center;
+        
+        width: 500px;
+        height: 800px;
+background-color: white;
+color: black;;
+    }
+
+
+
+

@@ -1,0 +1,37 @@
+@import "index.css";
+
+:root {
+    --ctrl-fg : white;
+--svg-fill: none;
+--card-bg : #000080; /* Navy Blue */
+--card-fg: yellow;
+--nav-bar-bg: #000080;
+--nav-bar-fg: yellow;
+--dlg-backdrop: black;
+--dlg-bg : white;
+--dlg-fg: black;
+}
+
+.ac-logo, .share-svg, .logo, .helpButtonImage, .card-nb-img, .card-img{     
+    fill: var(--svg-fill, none);
+}
+.card {
+    background-color: var(--card-bg, white);;
+    color: var( --card-fg, black);
+}
+.card-controls, .card-panel, .card-button   {
+    color: var(--ctrl-fg, cyan);
+    background-color:  var(--svg-fill, none);
+}
+.card-nav-bar  {
+background-color: var(--nav-bar-bg, purple);;
+color:var(--nav-bar-fg, cyan);
+}
+/* PopUp Dlg colors  backdrop and dlg*/
+#dlgBack.show { 
+    background-color: var(--dlg-backdrop, violet)
+}
+.dlg {
+    background-color: var(--dlg-bg, orange);
+color: var(--dlg-fg,blue);
+}

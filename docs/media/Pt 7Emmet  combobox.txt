@@ -2,7 +2,7 @@
 # You must copy this template file into media folder and name it the same name as the media file with the .txt extension.
 # Media friendly name
 [name]=combobox
-[order]=17
+[order]=18
 [category]=General
 [length]=12:34
 # *****  Ends the tag info section ***
