@@ -17,4 +17,4 @@ This catalog of audio webinars introduce Vs Code to visually impaired. Technique
 
 Microsofot Accessibility provide some wonderful webinars/videos as well. This is a supplement. I express techniques that have helped me along using a screen reader.  It is so hard, since sighted take for granted that the knowledge to perform that task is quite obvious (Just look!).  
  
-I hope to address these issues and present a large catalog of videos in a quick manner.
+I hope to address these issues and present a large catalog of audios  in a quick manner.
