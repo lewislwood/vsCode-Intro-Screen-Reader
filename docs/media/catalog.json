@@ -1,12 +1,12 @@
 {
   "application": {
     "name": "Audio-Catalog",
-    "created": "2023-03-26T22:13:49.605Z",
+    "created": "2023-04-11T16:21:08.899Z",
     "developer": "Lewis Wood",
     "website": "http://blindheroes.org"
   },
   "allow_category_filter": true,
-  "overview": "<p 'ta-justify'># Menu Link to point to</p><p>[menu_link]=http://Helpme.org</p><p>[menu_text]=Give me blood</p><p>This catalog of audio webinars introduce Vs Code to visually impaired. Techniques for navigating and modifying code.  Also how to change sttings.</p><p>Microsfot Accessiblity provide some wonderful webinars/videos as well. This is a supplement. I express techniques that have helped me along using a screen reader.  It is so hard, since sighted take for granted that the knowledge to perform that task is quite obvious (Just look!).</p><p>I hope to address these issues and present a large catalog of videos in a quick manner.</p>",
+  "overview": "<p 'ta-justify'># Menu Link to point to</p><p>[menu_link]=http://Helpme.org</p><p>[menu_text]=Give me blood</p><p>This catalog of audio webinars introduce Vs Code to visually impaired. Techniques for navigating and modifying code.  Also how to change sttings.</p><p>Microsofot Accessibility provide some wonderful webinars/videos as well. This is a supplement. I express techniques that have helped me along using a screen reader.  It is so hard, since sighted take for granted that the knowledge to perform that task is quite obvious (Just look!).</p><p>I hope to address these issues and present a large catalog of audios  in a quick manner.</p>",
   "help": "Select the Play button or Download to download the media.",
   "logo": "logo.svg",
   "logoAlt": "logo for Audio Acatalog",
@@ -14,7 +14,7 @@
   "mediaList": [
     {
       "file": "Part 1 Welcome.mp3",
-      "name": "Part 1 Welcome",
+      "name": "Welcome",
       "length": "13:51",
       "type": "mp3",
       "size": 13316596,
@@ -22,7 +22,7 @@
       "order": 11,
       "category": "General",
       "description": "<p 'ta-justify'>Introduce vsCode interface briefly.  Discuss some of my screen reader customizations. How to explore debug console/terminal  and terminal tree. Some keys discussed.</p>",
-      "anchor": "part-1-welcome"
+      "anchor": "welcome"
     },
     {
       "file": "Part 2 settings, cmd palette, file explorer.mp3",
@@ -37,13 +37,25 @@
       "anchor": "settings,-cmd-palette,-file-ex"
     },
     {
+      "file": "Typical_coding_and_navigating.mp3",
+      "name": "Typical Coding and Navigating",
+      "length": "19:30",
+      "type": "mp3",
+      "size": 18893843,
+      "Modified": "2023-03-21T22:04:26.322Z",
+      "order": 13,
+      "category": "General",
+      "description": "<p 'ta-justify'>A typical session of coding using vsCode. Here I outline how I utilize the various techniques for shortcuts, navigation, and picklists to do my job. All this done using a screen reader.</p><p>I walk through a recent mod. I use multiple editing groups, multiple points in a single file. Use a basic search and an object/symbol search. Checking for errors. The typescript app is displaying a dialog modal and giving out screen reader help messages.</p>",
+      "anchor": "typical-coding-and-navigating"
+    },
+    {
       "file": "Part 3 Outline and brace Navigation.mp3",
       "name": "Outline and brace Navigation",
       "length": "8:54",
       "type": "mp3",
       "size": 8565236,
       "Modified": "2023-03-08T16:45:09.311Z",
-      "order": 13,
+      "order": 14,
       "category": "General",
       "description": "<p 'ta-justify'>How to navigate large amounts of code use Outline navigation and matching braces navigation.  This can be parenthesis, brackets as well. Using the keys ctrl + shift + o and ctrl + shift + backslash.</p>",
       "anchor": "outline-and-brace-navigation"
@@ -55,7 +67,7 @@
       "type": "mp3",
       "size": 16807809,
       "Modified": "2023-03-08T16:46:28.216Z",
-      "order": 14,
+      "order": 15,
       "category": "General",
       "description": "<p 'ta-justify'>Explain how to perform split editing. This is where a file is editing in 2 windows/groups. Explain editor groups and perform a snippet, then block copy a folded code from one group to the newly created snippet code.</p><p>Lastly I demonstrate anchor selection, where you drop an anchor selection. Move somewhere else in the code and select to the cursor from the anchor point.</p><p>ctrl + backslash to split. ctrl + k ctrl + l to fold as well.</p><p>ctrl+k ctrl+b drop anchor, ctrl+k+ctrl+k to select from anchor to cursor.</p>",
       "anchor": "split-editor-groups--anchor-se"
@@ -67,7 +79,7 @@
       "type": "mp3",
       "size": 15082056,
       "Modified": "2023-03-08T16:47:51.923Z",
-      "order": 15,
+      "order": 16,
       "category": "General",
       "description": "<p 'ta-justify'>How to use the find and replace and what to watch for as a blind coder (behavior). Practices I use when selecting text and pasting code as a blind coder.</p>",
       "anchor": "find-replace-text-selection"
@@ -79,7 +91,7 @@
       "type": "mp3",
       "size": 20878732,
       "Modified": "2023-03-08T16:49:30.468Z",
-      "order": 16,
+      "order": 17,
       "category": "General",
       "description": "<p 'ta-justify'>Use Emmet to create HTML 5.0 compliant Doc.</p><p>Create a div label input from Emmet.</p><p>Discuss the great advantages to the blind utilizing Emmet vs typing it all in manually.</p>",
       "anchor": "new-project-emmet-html-doc-lab"
@@ -91,7 +103,7 @@
       "type": "mp3",
       "size": 12084870,
       "Modified": "2023-03-08T16:50:59.160Z",
-      "order": 17,
+      "order": 18,
       "category": "General",
       "description": "<p 'ta-justify'>Use Emmet to generate a Select with 3 options. ComboBox.</p>",
       "anchor": "combobox"
@@ -103,7 +115,7 @@
       "type": "mp3",
       "size": 11631803,
       "Modified": "2023-03-08T16:52:09.198Z",
-      "order": 18,
+      "order": 19,
       "category": "General",
       "description": "<p 'ta-justify'>Use Emmet to generate List with 3 items containing links each.</p>",
       "anchor": "list-items"
